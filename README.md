@@ -5,3 +5,4 @@ Este es mi primer repositorio para las clases de git
 Esto lo he añadido para mostrar como hacer un commit desde GitHub
 añadiendo cositas para mi repositorio
 colocando mas cosas para aprender
+colocando mas cambios
